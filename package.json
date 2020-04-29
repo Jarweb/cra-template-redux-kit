@@ -22,6 +22,13 @@
   "bugs": {
     "url": "https://github.com/Jarweb/cra-template-redux-kit/issues"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
   "homepage": "https://github.com/Jarweb/cra-template-redux-kit#readme",
   "dependencies": {
     "@types/react": "^16.9.34",
