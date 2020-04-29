@@ -1,0 +1,38 @@
+{
+  "name": "cra-template-redux-kit",
+  "version": "1.0.0",
+  "description": "redux + ts template for create react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarweb/cra-template-redux-kit.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarweb/cra-template-redux-kit/issues"
+  },
+  "homepage": "https://github.com/Jarweb/cra-template-redux-kit#readme",
+  "dependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "@types/react-redux": "^7.1.7",
+    "@types/redux": "^3.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.5",
+    "typescript": "^3.8.3"
+  }
+}
