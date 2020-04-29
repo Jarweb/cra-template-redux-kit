@@ -1,6 +1,6 @@
 {
   "name": "cra-template-redux-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "redux + ts template for create react app",
   "main": "index.js",
   "scripts": {
