@@ -1,6 +1,6 @@
 ## cra-redux-kit
 
-a redux template from create react app
+a redux template for create react app
 
 ## example
 
